@@ -1,4 +1,4 @@
-###BASIC CALCULATOR
+### BASIC CALCULATOR
 
 ### Performing Addition
 1. Enter the first number in the input field.
@@ -30,7 +30,7 @@
 6. 
 and so on...
 
-###DEMO VIDEO
+### DEMO VIDEO
 
 
 https://github.com/ZainabR11/GROWINTERN-TASK-1/assets/122125525/5e06fecc-9cc6-4487-948a-bd0dc8ca7cb9

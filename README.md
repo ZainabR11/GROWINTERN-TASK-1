@@ -1,4 +1,4 @@
-##BASIC CALCULATOR
+###BASIC CALCULATOR
 
 ### Performing Addition
 1. Enter the first number in the input field.
